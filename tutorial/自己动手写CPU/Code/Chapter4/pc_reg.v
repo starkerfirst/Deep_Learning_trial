@@ -57,5 +57,5 @@ module pc_reg(
 			ce <= `ChipEnable;
 		end
 	end
-
+  
 endmodule
